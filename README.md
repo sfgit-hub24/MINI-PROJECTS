@@ -1,5 +1,5 @@
-# Mini Projects
-This repository contains my college mini projects and academic programming work
+# Programming Fundamentals – Academic Practice
+This repository consists of my academic practice code written to strengthen understanding, based on faculty-provided questions. 
 ## Technologies Used
 - C
 - Java
